@@ -1,5 +1,14 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author": "Liam",
+	"description": "My first node project",
+	"keywords": [
+		"awesome",
+		"velvet",
+		"freecodecamp"
+	],
+	"license": "Kronman",
+	"version": "1.2.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
